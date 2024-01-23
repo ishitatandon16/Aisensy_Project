@@ -1,0 +1,15 @@
+/* styles.css */
+.dropzone {
+    border: 3px dashed black;
+    border-radius: 4px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    background-color: lightblue;
+  }
+  
+  .dropzone p {
+    margin: 0;
+    font-size:x-large;
+  }
+  
